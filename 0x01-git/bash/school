@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 #!/bin/baso "ALX School is so cool!"
 
+=======
+#!/bin/bash
+
+o "The school is open!"
+>>>>>>> update_script
